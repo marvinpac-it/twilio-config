@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Dial timeout="40">
+    <Number>+41219255553</Number>
+    <Number>+41219255574</Number>
+  </Dial>
+</Response>
